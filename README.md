@@ -2,7 +2,7 @@
 
 Welcome! This is a custom programming language designed for space-themed computation and data manipulation, featuring a unique syntax that combines readability with operability.
 
-PLay around with the language [here](https://starship.streamlit.app).
+Play around with the language [here](https://starship.streamlit.app).
 
 Note: This project was inspired by the Muffin Programming Language.
 
